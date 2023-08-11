@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef  _MAIN_H_
+#define  _MAIN_H_
 
 #include <stdio.h>
 #include <unistd.h>
@@ -19,6 +19,7 @@
 /* Points to an array of pointers to strings called the "environment" */
 extern char **environ;
 
+
 /**
  * struct data - struct that contains all relevant data on runtime
  * @av: argument vector
@@ -33,7 +34,7 @@ typedef struct data
 {
 	char **av;
 	char *input;
-	char *args;
+	char **args;
 	int status;
 	int counter;
 	char **_environ;
