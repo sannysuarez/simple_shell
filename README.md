@@ -48,7 +48,7 @@ hsh main.c shell.c
 
 $ exit $
 
-After you clone this repository and compile the program with the command above, you will generate a file called hsh that can be executed by entering ./hsh in your shell.
+After you clone this repository and compile the program with the command above, you will generate a file called hsh that can be executed by entering <code>./hsh</code> in your shell.
 
 The output after the program is executed should look something like this:
 ```C
