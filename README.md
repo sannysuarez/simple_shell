@@ -73,6 +73,11 @@ Brief description of functions contained in project:
 - **controlC:** avoid program closing when pressing ctrl + c.
 - **main:** initialize program.
 
+  ## Tasks :
+  0. **Betty would be proud**
+     Write a beautiful code that passes the Betty checks.
+  1. **Simple shell 0.1**
+
   ### Contact Info :
   Twitter : [Sanny Suarez](https://twitter.com/itz_sanni), [Movin Swatty](https://twitter.com/swattymovin)
   
