@@ -34,6 +34,6 @@ This repository contains the files for ALX simple_shell. It can be compiled usin
 - write (man 2 write)
 
   ### GCC command to compile:
-**gcc -Wall -Werror -Wextra -pedantic \*.c -o hsh**
-This is <span style="color:red;">red</span> text.
+** gcc -Wall -Werror -Wextra -pedantic \*.c -o hsh **
+
 
