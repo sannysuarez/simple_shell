@@ -74,9 +74,9 @@ Brief description of functions contained in project:
 - **main:** initialize program.
 
   ## Tasks :
-  1. **Betty would be proud**
+  1. Betty would be proud
      Write a beautiful code that passes the Betty checks.
-  2. **Simple shell 0.1**
+  2. Simple shell 0.1
 
   ### Contact Info :
   Twitter : [Sanny Suarez](https://twitter.com/itz_sanni), [Movin Swatty](https://twitter.com/swattymovin)
