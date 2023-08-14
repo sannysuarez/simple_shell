@@ -73,5 +73,6 @@ Brief description of functions contained in project:
 - **controlC:** avoid program closing when pressing ctrl + c.
 - **main:** initialize program.
 
-  ###Contact Info :
+  ### Contact Info :
+  Twitter : [Sanny Suarez](https://twitter.com/itz_sanni) 
   
