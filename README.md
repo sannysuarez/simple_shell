@@ -74,5 +74,5 @@ Brief description of functions contained in project:
 - **main:** initialize program.
 
   ### Contact Info :
-  Twitter : [Sanny Suarez](https://twitter.com/itz_sanni) 
+  Twitter : [Sanny Suarez](https://twitter.com/itz_sanni), [Movin Swatty](https://twitter.com/swattymovin)
   
