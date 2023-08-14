@@ -34,7 +34,13 @@ This repository contains the files for ALX simple_shell. It can be compiled usin
 - write (man 2 write)
 
 ### GCC command to compile:
-<mark>gcc -Wall -Werror -Wextra -pedantic *.c -o hsh</mark>
+<pre>
+<code>
+```bash
+gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+```
+</code>
+</pre>
 This wil compile all the '.c' files and change the output's name to 'hsh'.
 
 ### Template to test output:
