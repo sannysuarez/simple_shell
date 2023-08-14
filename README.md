@@ -33,3 +33,9 @@ This repository contains the files for ALX simple_shell. It can be compiled usin
 - wait4 (man 2 wait4)
 - write (man 2 write)
 
+  ### GCC command to compile:
+  ```python
+def say_hello():
+    print("Hello, world!")
+
+
