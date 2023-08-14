@@ -45,7 +45,7 @@ char *strcat_cd(data_shell *datash, char *msg, char *error, char *ver_str)
  */
 char *error_get_cd(data_shell *datash)
 {
-	int length, len_id;
+	int lengt, len_id;
 	char *error, *ver_str, *msg;
 
 	ver_str = aux_itoa(datash->counter);
@@ -60,9 +60,9 @@ char *error_get_cd(data_shell *datash)
 		len_id = _strlen(datash->args[1]);
 	}
 
-	length = _strlen(datash->av[0]) + _strlen(datash->args[0]);
-	length += _strlen(ver_str) + _strlen(msg) + len_id + 5;
-	error = malloc(sizeof(char) * (length + 1));
+	lengt = _strlen(datash->av[0]) + _strlen(datash->args[0]);
+	lengt += _strlen(ver_str) + _strlen(msg) + len_id + 5;
+	error = malloc(sizeof(char) * (lengt + 1));
 
 	if (error == 0)
 	{
